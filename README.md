@@ -167,11 +167,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 💖 Support the Developer
 
-If you found this tutorial helpful and would like to support the development of more resources like this, consider tipping! Your contributions help keep the project alive and thriving.
-
-**Solana Wallet Address:** `jaDpUj6FzoQFtA5hCcgDwqnCFqHFcZKDSz71ke9zHZA`
-**ETH Wallet Address:** `0x96aca495621E93c884A8cb054bB823Bc273C29Bb`
-
-Thank you for your support!
-
-Happy swapping! If you have any questions or run into issues, please open an issue in the GitHub repository.
+- Telegram [@g0drlc](https://t.me/g0drlc)
